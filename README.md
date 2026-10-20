@@ -27,3 +27,6 @@ The add-on imports these upstream modules: `apple/download` (getDownloadInfo),
 `components/common/CountrySelect`, `i18n`. If one is renamed, `tsc`/build will
 point at the exact line in `files/AppIdDownload.tsx`.
 
+## Screenshot
+
+![App ID Download Add-on](https://github.com/arm64x/AssppWeb-AppID/blob/main/screenshot.png)
