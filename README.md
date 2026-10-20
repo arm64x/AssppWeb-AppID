@@ -29,4 +29,4 @@ point at the exact line in `files/AppIdDownload.tsx`.
 
 ## Screenshot
 
-![App ID Download Add-on](https://github.com/arm64x/AssppWeb-AppID/blob/main/screenshot.png)
+![App ID Download Add-on](https://github.com/arm64x/AssppWeb-AppID/blob/main/Screenshot.png)
